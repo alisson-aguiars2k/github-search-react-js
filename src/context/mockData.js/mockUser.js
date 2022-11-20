@@ -1,0 +1,38 @@
+export default {
+  login: "alisson-aguiars2k",
+  id: 101614766,
+  node_id: "U_kgDOBg6Erg",
+  avatar_url: "https://avatars.githubusercontent.com/u/101614766?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/alisson-aguiars2k",
+  html_url: "https://github.com/alisson-aguiars2k",
+  followers_url: "https://api.github.com/users/alisson-aguiars2k/followers",
+  following_url:
+    "https://api.github.com/users/alisson-aguiars2k/following{/other_user}",
+  gists_url: "https://api.github.com/users/alisson-aguiars2k/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/alisson-aguiars2k/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/alisson-aguiars2k/subscriptions",
+  organizations_url: "https://api.github.com/users/alisson-aguiars2k/orgs",
+  repos_url: "https://api.github.com/users/alisson-aguiars2k/repos",
+  events_url: "https://api.github.com/users/alisson-aguiars2k/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/alisson-aguiars2k/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Alisson Aguiar",
+  company: null,
+  blog: "https://www.linkedin.com/in/alisson-aguiars2k/",
+  location: "Natal, Brazil",
+  email: null,
+  hireable: null,
+  bio: "Sou estudante de Programação Web \r\n(Front-\r\nend). Apaixonado por tecnologia e seus desafios. ",
+  twitter_username: null,
+  public_repos: 14,
+  public_gists: 0,
+  followers: 2,
+  following: 20,
+  created_at: "2022-03-15T03:08:39Z",
+  updated_at: "2022-09-28T20:00:37Z",
+};
