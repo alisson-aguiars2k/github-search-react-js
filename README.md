@@ -27,7 +27,7 @@
 - As rotas foram criadas com React Router Dom 6.
 ## A estilização ; 
 - Styled Components; 
-- Dependencias ; 
+## Dependencias ; 
 - Auth0 ; 
 - Fusion Charts ; 
 - Axios ; 
