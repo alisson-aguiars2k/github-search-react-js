@@ -18,4 +18,4 @@
 
 ![](./src/images/github-search.jpg)
 
-### [Github Search](https://alisson-aguiars2k.github.io/github-search-react-js/) 🔗
+### [Github Search](https://react-js-github-user-search.netlify.app/) 🔗
