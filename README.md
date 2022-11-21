@@ -1,8 +1,10 @@
 ## Github Search !  👨‍🦱 👨‍🦰 👩
 <br>
+## Projeto 🥰 🚀 💻 📚
 
-## Uma aplicação é cosumida a API do Github, e os serviços da Funsion Charts, para os gráficos. As funcionalidades( login / signup( com o serviço Auth0 ), pesquisar usuários, seguidores e gráficos dinâmicos em 3D ). O código foi desenvolvido usando os Hooks useState, useEffect, useReducer e useContext com Axios para API com os padrões Restful. As rotas foram criadas com React Router Dom 6. A estilização foi feita com a biblioteca Styled Components. Suas dependencias foram; Auth0, Fusion Charts, Axios, Dotenv, Netlify, React Icons, React Router Dom dentre outros. 💻 📚
-<br>
+![](./src/images/github-search.jpg)
+
+### [Github Search](https://react-js-github-user-search.netlify.app/) 🔗
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
@@ -14,8 +16,25 @@
 
 <br>
 
-## Projeto 🥰
-
-![](./src/images/github-search.jpg)
-
-### [Github Search](https://react-js-github-user-search.netlify.app/) 🔗
+## Uma aplicação é cosumida a API do Github, e os serviços da Funsion Charts, para os gráficos. As funcionalidades:
+- Login / Signup ;
+- Pesquisar Usuários ;
+- Seguidores ;
+- Gráficos dinâmicos em 3D.
+## O código foi desenvolvido usando os conceitos ; 
+- Hooks ; useState, useEffect, useReducer e useContext ;
+- Axios para API com os padrões Restful ;
+- As rotas foram criadas com React Router Dom 6.
+## A estilização ; 
+- Styled Components; 
+- Dependencias ; 
+- Auth0 ; 
+- Fusion Charts ; 
+- Axios ; 
+- Dotenv ; 
+- Netlify ; 
+- React Icons ; 
+- React Router Dom dentre outros. 
+## 🎲 Rodando o Back End (servidor)
+- npm install
+- npm start
