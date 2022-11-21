@@ -25,11 +25,9 @@
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - Axios para API com os padrões Restful ;
 - As rotas foram criadas com React Router Dom 6.
-<<<<<<< HEAD
 ## A estilização ; 
 - Styled Components; 
 - Dependencias ; 
-=======
 - Resposivo
 ## A estilização ; 
 - Styled Components; 
