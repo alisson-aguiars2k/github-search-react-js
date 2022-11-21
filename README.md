@@ -1,4 +1,4 @@
-## Github Search !  👨‍🦱 👨‍🦰 👩
+# Github Search !  👨‍🦱 👨‍🦰 👩
 <br>
 ## Projeto 🥰 🚀 💻 📚
 
@@ -25,9 +25,15 @@
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - Axios para API com os padrões Restful ;
 - As rotas foram criadas com React Router Dom 6.
+<<<<<<< HEAD
 ## A estilização ; 
 - Styled Components; 
 - Dependencias ; 
+=======
+- Resposivo
+## A estilização ; 
+- Styled Components; 
+## Dependencias ; 
 - Auth0 ; 
 - Fusion Charts ; 
 - Axios ; 
@@ -38,3 +44,4 @@
 ## 🎲 Rodando o Back End (servidor)
 - npm install
 - npm start
+
