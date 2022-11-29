@@ -1,10 +1,13 @@
 # Github Search !  👨‍🦱 👨‍🦰 👩
+
 <br>
+
 ## Projeto 🥰 🚀 💻 📚
+
+### [Github Search](https://react-js-github-user-search.netlify.app/) 🔗
 
 ![](./src/images/github-search.jpg)
 
-### [Github Search](https://react-js-github-user-search.netlify.app/) 🔗
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
